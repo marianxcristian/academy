@@ -1,0 +1,31 @@
+# Computer Analysis
+
+- Chip
+  - Apple M1
+- Memory
+  - 8 GB
+- Display
+  - 13.3-inch (2560 × 1600)
+- Storage
+  - Free: 113.58 GB (113,584,386,048 bytes)
+- Camera
+  - Model ID: FaceTime HD Camera
+- Version
+  - macOS Ventura 13.1 (22C65)
+
+- Operating System Version:
+  - Status: Recommended
+- Processor:
+  - Status: Special responsibilities
+- Memory/RAM:
+  - Status: Recommended
+- Storage Free:
+  - Status: Recommended
+- Monitor:
+  - Status: Minimum
+- Webcam:
+  - Status: Recommended
+- Speakers / Microphone:
+  - Status: Recommended
+- Internet Bandwidth:
+  - Status: Recommended
