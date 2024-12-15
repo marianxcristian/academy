@@ -1,0 +1,139 @@
+/* Header */
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+header .buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px;
+}
+
+header .buttons button {
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: white;
+    font-weight: bold;
+}
+
+header .tabs {
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin: 20px 0;
+}
+
+header .tabs ul {
+    display: flex;
+    list-style-type: none;
+    gap: 70px;
+}
+
+header nav ul li {
+    padding: 10px;
+}
+
+/* Title */
+
+section .title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+}
+
+section .title h1 {
+    padding: 20px;
+    max-width: 700px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+/* Social */
+
+section .social {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+}
+
+section .author {
+    display: flex;
+    flex-direction: column;
+}
+
+section .social-media ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
+
+/* Image */
+
+section .image {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    height: 300px;
+    object-fit: cover;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+/* Content */
+
+section .content {
+    display: block;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* Info */
+
+section .info {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+section h1 {
+    display: block;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+section .links {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Footer */
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px 0;
+}
+
+footer .logo {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+footer .pages ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
